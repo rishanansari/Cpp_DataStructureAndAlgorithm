@@ -1,6 +1,8 @@
+
 //Write a Program to print Hollow Rhombus pattern of printing stars. 
 //Input will contain the length of rhombus n.
 // out put will be like (if n =3)
+
 //      *  *  * 
 //    *     *
 //  *  *  *
@@ -46,6 +48,7 @@ do
 
     cout<<"Do you want to continue : type -> y : ";
     cin>>choice;
+
 } while (choice == 'y');
 
 cout<<"Run code again";
