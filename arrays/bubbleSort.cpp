@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-    int arr[]={2,5,8,9,7,1};
+    int arr[]={9,3,7,15,2,5,4};
     int temp;
     int n =sizeof(arr)/sizeof(int); //length of an array
     for (int i = 0; i < n-1 ; i++)
