@@ -1,3 +1,10 @@
+//pyramid pattern between space 
+//     * 
+//    * *
+//   * * *
+//  * * * *
+// * * * * *
+
 #include<iostream>
 using namespace std;
 
